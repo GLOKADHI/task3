@@ -1,0 +1,14 @@
+You: who is coolie 2025 film??
+
+Ollama: I couldn't find any information on a 2025 film called \Coolie\ It's
+possible that the film has not been officially announced or released
+yet, or it may be a lesser-known or obscure title.
+
+However, I did find some information on a Bollywood film called
+\Kurbaan\ which was released in 2009 and had a character named Coolie,
+but I couldn't confirm if there is a new film with this name scheduled
+for release in 2025.
+
+If you could provide more context or details about the film you are
+looking for, I may be able to help you better.
+
